@@ -12,6 +12,7 @@ public class SoccerTeam {
 		this.trainer=trainer;
 		this.tablePosition=tablePosition;
 	}
+	//Intendation
 public String getName(){
 	return name ;
 }

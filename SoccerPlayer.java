@@ -3,6 +3,7 @@ public class SoccerPlayer {
 	private String name ;
 	private int number ;
 	private SoccerTeam team;
+	//please start variable names always with lower case letters
 	private boolean YellowCard, RedCard= false;
 	private int numberOfGoals;
 	
